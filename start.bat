@@ -1,0 +1,1 @@
+ streamlit run c:\Users\kushhov\Desktop\personal_account\personal_account_october.py
